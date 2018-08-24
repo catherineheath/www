@@ -12,7 +12,7 @@ Minimal Viable Meetup checklist
 * Regular meetups help people plan their commitments. Host your meetup at the same time every month – eg the first Wednesday, or another specific date.
 * Try to host your meetup in a regular event space to minimize the need to spend time finding new spaces. 
 * If you can’t find a local speaker for each meetup, consider screening a popular talk from one of our past `Write the Docs conferences <http://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for a live Q & A session.
-* Alternatively, consider hosting a regular informal ‘docs and drinks’ to keep the momentum going with your attendees – these can involve either alcohol or coffee. 
+* Alternatively, consider hosting a regular informal ‘docs and drinks’ to keep the momentum going with your attendees – these could involve either alcohol or coffee, or something else. 
 * Bring in at least two main organizers for your meetup (including yourself). This helps shoulder the burden of organizing and stops you burning out. 
 * Check your scheduling won’t clash with an overlapping meetup that might attract away your attendees. 
 * Even if you haven’t had a meetup in a while, just pick yourself back up and schedule another one when you can. 
